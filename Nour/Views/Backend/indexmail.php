@@ -9,11 +9,11 @@ $mail->SMTPSecure='tls';
 
 
 
-$mail->Username='nourbenamor925@gmail.com';
-$mail->Password='bacmath2018';
+$mail->Username='';
+$mail->Password='';
 
-$mail->setFrom('nourbenamor925@gmail.com');
-$mail->addAddress('nriahi44@gmail.com');
+$mail->setFrom('');
+$mail->addAddress('');
 
 $mail->isHTML(true);
 
