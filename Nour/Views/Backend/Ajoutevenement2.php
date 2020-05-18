@@ -79,7 +79,7 @@ $liste = $C->getcategorie();
                     <input type="text" class="form-control mt-2 mb-2" name="descr" id="descr" placeholder="Description">
                   </div>
                   <div class="form-group col-md-6 mt-2 mb-2">
-                    <input type="file" class="form-control mt-2 mb-2" name="image" id="image" placeholder="Image">
+                    <input type="text" class="form-control mt-2 mb-2" name="image" id="image" placeholder="Image">
                   </div>
                 <button type="submit" class="btn btn-success mt-2" style="margin-left: 200px;height: 50px;">Ajouter dans la base de données</button>
             </form>
